@@ -1,1 +1,15 @@
+node_modules
+/output
+/output_resource
+log
+.DS_Store
+PSM
 .idea
+.vscode
+.docz
+.nemo.json
+*.log
+*.xlsx
+packages/vpaas-bootstrap/tos_temp_uploads
+packages/vpaas-bootstrap/rtc_temp_uploads
+packages/vpaas-server/config/consul_devbox
